@@ -1,4 +1,5 @@
 # 📄 RAG Document Chatbot
+![App screenshot](screenshot.png)
 
 Ask questions about your documents and get answers backed by the source text.
 
